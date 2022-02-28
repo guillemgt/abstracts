@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# Custom paths
+
+dataset/dataset.json
+dataset/prepared.json
+
+classifier/model
+classifier/tokenizer
+classifier/training_models
+classifier/logs
+
+generator/model
+generator/tokenizer
+generator/training_models
+generator/logs
+
+generator/results
+generator/images
+generator/tmp
